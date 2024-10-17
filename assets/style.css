@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Tomorrow&display=swap');
+
+:root{
+  --text-color: #AF3438;
+  --card-front-color: #144480;
+  --card-back-color: #144480;
+}
+
+body {
+  background: url(img/bg-desktop-red.webp);
+  font-family: Tomorrow;
+}
