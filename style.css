@@ -67,6 +67,15 @@ body {
     width: 100%;
 }
 
+.cartao__conteudo__verso{
+  transform: rotateY(180deg);
+}
+
+.cartao__conteudo__frente,
+.cartao__conteudo__verso{
+    position: absolute;
+}
+
 
 footer {
   background-color: black;
