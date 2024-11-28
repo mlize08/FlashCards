@@ -1,6 +1,7 @@
 criaCartao(
     'Internet',
     'O que é HTML?',
+    'hmtl-5.png',
     'É uma linguagem de marcação utilizada para criar páginas Web'
 )
 
