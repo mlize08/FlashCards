@@ -36,6 +36,6 @@ criaCartao(
 criaCartao(
     'Programação',
     'O que significa o termo "commit"?',
-    'commit.png',
+    'commit-git.png',
     'Processo de tornar permanente um conjunto de alterações, ou seja, de efetivar as alterações.'
 )
