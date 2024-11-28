@@ -8,6 +8,7 @@ criaCartao(
 criaCartao(
     'Internet',
     'O que é CSS?',
+    'css-3.png',
     'É o código utilizado para dar estilo à página Web'
 )
 
