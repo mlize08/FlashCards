@@ -15,12 +15,14 @@ criaCartao(
 criaCartao(
     'Internet',
     'O que é Javascript?',
+    'javascript.png',
     'É uma linguagem de programação utilizada para deixar páginas Web mais dinâmicas'
 )
 
 criaCartao(
     'Programação',
     'O que é GitHub?',
+    'github.png',
     'é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem utilizando o sistema de controle de versões chamado Git'
 )
 
