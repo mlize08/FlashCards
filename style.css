@@ -6,7 +6,7 @@
 
 body {
   background: url('assets/img/bg-desktop-red.webp');
-  font-family: Bai Jamjuree;
+  font-family: Verdana;
 }
 
 #container {
@@ -41,7 +41,7 @@ body {
   position: absolute;
   margin: 0.6rem;
   border-radius: 0.6rem;
-  font-size: 1vw;
+  font-size: 2vw;
   backface-visibility: hidden;
 }
 
