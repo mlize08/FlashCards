@@ -1,35 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Internet',
+    'O que é HTML?',
+    'É uma linguagem de marcação utilizada para criar páginas Web'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Internet',
+    'O que é CSS?',
+    'É o código utilizado para dar estilo à página Web'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Internet',
+    'O que é Javascript?',
+    'É uma linguagem de programação utilizada para deixar páginas Web mais dinâmicas'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é GitHub?',
+    'é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem utilizando o sistema de controle de versões chamado Git'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Programação',
+    'O que é Visual Studio Code?',
+    'É um editor de código de código aberto desenvolvido pela Microsoft'
+)
+
+criaCartao(
+    'Programação',
+    'O que significa o termo "commit"?',
+    'Processo de tornar permanente um conjunto de alterações, ou seja, de efetivar as alterações.'
 )
