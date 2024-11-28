@@ -1,7 +1,7 @@
 :root {
   --text-color: #032e63;
-  --card-front-color: #b92077;
-  --card-back-color: #e051f3;
+  --card-front-color: #db58a2;
+  --card-back-color: #26022b;
 }
 
 body {
@@ -59,6 +59,8 @@ body {
 .cartao__conteudo__resposta p {
   color: var(--card-back-color);
   font-weight: 700;
+  background-color: rgba(38, 2, 43, 0.5);
+  border: 4px solid var(--text-color);
 }
 
 .cartao.active .cartao__conteudo {
@@ -71,6 +73,7 @@ body {
   position: absolute;
   height: 100%;
   width: 100%;
+  box-sizing: border-box;
 }
 
 .cartao__conteudo__resposta {
