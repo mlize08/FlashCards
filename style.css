@@ -82,8 +82,9 @@ body {
 }
 
 .cartao__conteudo__resposta img{
-  height: 30%;
+  height: 10%;
 }
+
 footer {
   background-color: black;
   color: white;
