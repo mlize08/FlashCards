@@ -29,11 +29,13 @@ criaCartao(
 criaCartao(
     'Programação',
     'O que é Visual Studio Code?',
+    'navagador.png',
     'É um editor de código de código aberto desenvolvido pela Microsoft'
 )
 
 criaCartao(
     'Programação',
     'O que significa o termo "commit"?',
+    'commit',
     'Processo de tornar permanente um conjunto de alterações, ou seja, de efetivar as alterações.'
 )
